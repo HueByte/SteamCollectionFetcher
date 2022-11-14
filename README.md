@@ -1,6 +1,10 @@
 # What is it?
 Scrapper made for Project Zomboid mod list automatization
 
+# How to run?
+- Navigate to `src` folder
+- Run `dotnet run` command
+
 # How it works?
 - Save your workshop mod collection as HTML (ctrl + s in the browser)
 - Provide the path for downloaded HTML file
